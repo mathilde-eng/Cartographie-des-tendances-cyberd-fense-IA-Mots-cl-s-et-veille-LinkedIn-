@@ -35,7 +35,7 @@ L'objectif : **analyser l'évolution des thématiques et identifier les domaines
 ---
 
 ## 🖼 **Aperçu du Dashboard**
-![Dashboard Screenshot](screenshots/main-view.png)
+![Dashboard Screenshot](screenshots/)
 
 
 ⭐ **Si vous trouvez ce projet utile, n’hésitez pas à lui donner une étoile !**
